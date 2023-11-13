@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<link rel="stylesheet" href="estilos.css">
+<link rel="stylesheet" href="contacto.html">
+<link rel="stylesheet" href="inicio.html">
+<link rel="stylesheet" href="estilos/fontawesome-free-6.4.2-web/css/all.min.css">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <title>tortas</title>
+</head>
+
+<body>
+
+</body>
+
+</html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tortas</title>
+</head>
+
+<body class="cuerpo-pagina">
+    <main>
+        <title>Tortas de Barbarita</title>
+        <nav class="navbar bg-dark border-bottom border-body col-12" data-bs-theme="bg-dark">
+            <ul>
+                <li class="izquierda-button"><a href="inicio.html" class="color-btn">Inicio</a></li>
+                <li class="centered-button"><a href="tortas.html" class="color-btn">Tortas</a></li>
+                <li class="derecha-button"><a href="contacto.html" class="color-btn">Contactame</a></li>
+            </ul>
+        </nav>
+        <div>
+            <h1 class="titulo-general">Tortas de Barbara</h1>
+            <p class="parrafo-color">La repostería es considerada como un tipo específico de gastronomía, es decir, como
+                una rama de la cocina profesional, que se especializa en la elaboración de postres.</p>
+            <div class="contenedor">
+                <h2 class="color-h2">Torta de Oreo y Dulce de Leche</h2>
+                <img src="imagenes/torta 1.png" alt="Torta de Oreo y Dulce de Leche" class="torta1">
+                <ul>
+                    <li class="lista-receta">4 paquetes de galletitas Oreo</li>
+                    <li class="lista-receta">80 gramos de manteca</li>
+                    <li class="lista-receta">400 gramos de dulce de leche repostero</li>
+                    <li class="lista-receta">150 centímetros cúbicos de crema de leche 1 cucharada postre de esencia de
+                        vainilla</li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="contenedor">
+            <h2 class="color-h2">Torta de Arandanos y Fresa</h2>
+            <img src="imagenes/torta 2.png" alt="Torta de Arandanos y Fresa" class="torta1">
+            <ul>
+                <li class="lista-receta">500 g de queso fresco</li>
+                <li class="lista-receta">200 ml de nata fresca espesa</li>
+                <li class="lista-receta">1 yogur natural</li>
+                <li class="lista-receta">4 huevos</li>
+                <li class="lista-receta">4 cucharadas de maizena</li>
+                <li class="lista-receta">5 cucharadas de azúcar</li>
+                <li class="lista-receta">Ralladura de limón <span class="resaltar">(optativo)</span></li>
+            </ul>
+            <ul>
+                <li class="lista-receta"><span class="subrayar">Para la Salsa de Arándanos</span></li>
+                <li class="lista-receta">150 g arándanos congelados</li>
+                <li class="lista-receta">50 g de azúcar</li>
+                <li class="lista-receta">1 ½ cucharadita de Ground Arrowroot de Dr. Oetker disuelta en un poco de agua
+                    fría</li>
+
+            </ul>
+
+        </div>
+        <div class="contenedor">
+            <h2 class="color-h2">Torta de Fresa y chocolate Intenso</h2>
+            <img src="imagenes/torta 3.png" alt="Torta de Oreo y Dulce de Leche" class="torta1">
+            <ul>
+                <li class="lista-receta">280 gr de harina</li>
+                <li class="lista-receta">1 cucharadita de sal</li>
+                <li class="lista-receta">220 gr de azúcar moreno</li>
+                <li class="lista-receta">100 gr de azúcar</li>
+                <li class="lista-receta">4 huevos grandes XL</li>
+                <li class="lista-receta">200 gr de chocolate para fundir</li>
+                <li class="lista-receta">1 cucharadita de vainilla azucarada</li>
+                <li class="lista-receta">1 cucharadita de bicarbonato sódico</li>
+                <li class="lista-receta">2 cucharaditas de levadura en polvo</li>
+                <li class="lista-receta">250 gr de mantequilla a temperatura ambiente</li>
+                <li class="lista-receta">250 ml de buttermilk</li>
+            </ul>
+        </div>
+    </main>
+    <a class="text-center" href="tortas.html" title="Click para volver al inicio">Volver al inicio</a>
+    <footer class="footer5">
+        <ul class="footer-icons">
+            <li class="footer-icons btn btn-link"><i class="espacio fas fa-home"><a href="inicio.html"></i>Inicio</li>
+            </a>
+            <li class="footer-icons btn btn-link"><i class="espacio fas fa-envelope"><a
+                        href="mailto:info@barbaracakes.com.ar"></i>Contactame</li></a>
+            <li class="footer-icons btn btn-link"><i class="espacio fab fa-youtube"><a href="https://youtube.com/"
+                        target="_blank"></i>Youtube</li></a>
+        </ul>
+    </footer>
+
+
+
+
+</body>
+
+</html>
